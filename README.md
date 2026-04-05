@@ -11,8 +11,8 @@
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
 ## 🔗 Quick Links
-* 🎥 **[Watch the Loom Demo Video](INSERT_LOOM_LINK_HERE)**
-* 💻 **[Live Frontend Demo (StackBlitz)](INSERT_STACKBLITZ_LINK_HERE)**
+* 🎥 **[Watch the Loom Demo Video](https://drive.google.com/file/d/1pIPWQNs-JsGxATumLentrZWSLEZvuKTG/view?usp=sharing)**
+* 💻 **[Live Frontend Demo (StackBlitz)](https://stackblitz.com/~/github.com/Ashishbabunannepaga/grabon-ai-underwriting-agent?file=README.md)**
 
 ---
 
@@ -94,4 +94,4 @@ npm run dev
 ---
 
 *Designed and developed by Ashish Babu Nannepaga for the GrabOn Vibe Coder Challenge 2025.*
-```
+
